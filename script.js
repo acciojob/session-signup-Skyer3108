@@ -17,8 +17,6 @@ document.getElementById('signup-form').addEventListener('submit',(e)=>{
 
 				alert('Sign up successful!')
 		
-
-		
 	}
 	else{
 		alert('Password do not match')
