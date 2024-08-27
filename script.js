@@ -14,6 +14,8 @@ document.getElementById('signup-form').addEventListener('submit',(e)=>{
 		sessionStorage.setItem('name',name)
 		sessionStorage.setItem('email',email)
 		sessionStorage.setItem('password',password)
+
+				alert('Sign up successful!')
 		
 
 		
